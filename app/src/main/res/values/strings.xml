@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">eBayTest</string>
+
+    <string name="label_id">ID: </string>
+    <string name="location">LOC: </string>
+    <string name="label_depth">DEP: </string>
+
+    <string name="error_fetch_data">Failed to fetch data</string>
+    <string name="network_unavailable">Your network is unavailable.</string>
+</resources>
