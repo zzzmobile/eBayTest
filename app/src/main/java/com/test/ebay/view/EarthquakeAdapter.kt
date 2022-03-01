@@ -65,6 +65,8 @@ class EarthquakeAdapter(
 
             if (data.magnitude >= 8) {
                 tvMagnitude.setTextColor(Color.RED)
+            } else {
+                tvMagnitude.setTextColor(Color.BLACK)
             }
         }
     }
